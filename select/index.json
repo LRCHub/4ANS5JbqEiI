@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Yonaguni",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-21T18:11:39.794321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/01_Yonaguni_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_Yonaguni_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/03_Yonaguni_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/04_Yonaguni_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/05_Yonaguni_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_Yonaguni_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yonaguni",
+      "artist": "Wiplash",
+      "has_synced": true,
+      "path": "select/07_Yonaguni_Wiplash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Bunny - Yonaguni (Video Oficial)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/08_Bad_Bunny_-_Yonaguni_(Video_Oficial)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Bunny - Yonaguni  (Official Video)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/09_Bad_Bunny_-_Yonaguni_(Official_Video)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Volví, Yonaguni, 911 - Remix",
+      "artist": "Santiago Cañete",
+      "has_synced": true,
+      "path": "select/10_Volví,_Yonaguni,_911_-_Remix_Santiago_Cañete.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ojitos Yonaguni",
+      "artist": "Paranoid 1966",
+      "has_synced": true,
+      "path": "select/11_Ojitos_Yonaguni_Paranoid_1966.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yonaguni (En Vivo)",
+      "artist": "La T y la M",
+      "has_synced": true,
+      "path": "select/12_Yonaguni_(En_Vivo)_La_T_y_la_M.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sal y Perrea / Yonaguni / Todo de Ti",
+      "artist": "Combinacion De La Habana",
+      "has_synced": true,
+      "path": "select/13_Sal_y_Perrea___Yonaguni___Todo_de_Ti_Combinacion_De_La_Habana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Bunny - Yonaguni  (Official Video)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/14_Bad_Bunny_-_Yonaguni_(Official_Video)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_Yonaguni_Bad_Bunny.txt"
+    }
+  ]
+}
