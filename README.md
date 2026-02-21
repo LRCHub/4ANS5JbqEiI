@@ -1,0 +1,82 @@
+# Bad Bunny – Yonaguni
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.58] Yeah, yeah
+[00:03.65] Yeah, yeah, yeah, yeah, yeah, yeah
+[00:06.94] Yeah, yeah, yeah, yeah, yeah
+[00:20.94] 
+[00:10.90] Una noche más y copas de más
+[00:15.79] Tú no me dejas en paz
+[00:18.13] De mi mente no te vas
+[00:28.63] 
+[00:20.58] Aunque sé que no debo, hey
+[00:23.85] Pensar en ti bebé, pero cuando bebo
+[00:28.52] Me viene tu nombre, tu cara, tu risa y tu pelo, hey
+[00:33.71] Dime dónde tú está', que yo por ti cojo un vuelo
+[00:38.52] Y a Yonaguni le llego, oh
+[00:51.02] 
+[00:41.99] Aunque sé que no debo, hey
+[00:43.07] Pensar en ti bebé, pero cuando bebo
+[00:49.55] Me viene tu nombre, tu cara, tu risa y tu pelo, hey
+[00:54.94] Dime dónde tú está', que yo por ti cojo un vuelo
+[00:59.91] Y a Yonaguni le llego, hey
+[01:12.91] 
+[01:03.05] No me busque' en Instagram
+[01:05.10] Mami, búscame en casa
+[01:06.98] Pa' que vea' lo que pasa, hey
+[01:09.56] Si tú me prueba', te casa', hey
+[01:12.38] Ese cabrón ni te abraza
+[01:23.88] 
+[01:14.35] Y yo loco por tocarte
+[01:16.98] Pero ni me atrevo a textearte
+[01:19.42] Tú con cualquier outfit la parte'
+[01:22.35] Mami, tú ere' aparte
+[01:32.35] 
+[01:24.86] Shorty, tiene' un culo bien grande, eh
+[01:28.41] De-Demasia'o grande
+[01:30.75] Y yo lo tengo estudia'o, ya mismo me gradúo
+[01:33.55] Y en la cara me lo tatúo
+[01:45.55] 
+[01:35.73] Vi que viste mi story y subiste una pa' mí
+[01:39.58] Yo que me iba a dormir, hey
+[01:41.54] En la disco habían mil
+[01:43.49] Y yo bailando contigo en mi mente
+[01:59.99] 
+[01:45.92] Aunque sé que no debo
+[01:48.84] Pensar en ti bebé, pero cuando bebo
+[01:53.88] Me viene tu nombre, tu cara, tu risa y tu pelo, hey
+[01:59.15] Dime dónde tú está', que yo por ti cojo un vuelo
+[02:03.63] Y a Yonaguni le llego
+[02:14.13] 
+[02:06.83] Si me da' tu dirección, yo te mando mil carta'
+[02:10.28] Si me da' tu cuenta de banco, un millón de peso'
+[02:13.15] To'a la noche arrodillado a Dio' le rezo
+[02:15.35] Pa' que ante' que se acabe el año tú me de' un beso
+[02:40.85] 
+[02:18.27] Y empezar el 2023 bien cabrón
+[02:21.92] Contigo y un blunt
+[02:23.71] Tú te ve' asesina con ese mahón
+[02:26.71] Me matas sin un pistolón
+[02:38.71] 
+[02:29.04] Y yo te compro un Banshee
+[02:31.47] Gucci, Givenchy
+[02:33.32] Un poodle, un frenchie
+[02:34.82] El pasto, lo' munchie'
+[02:36.64] Te canto un mariachi
+[02:38.51] Me convierto en Itachi, eh
+[02:51.51] 
+[02:41.77] Yeah-yeah-yeah-yeah
+[02:43.92] Bad Bunny, baby, bebé
+[02:46.53] Bad Bunny, baby, bebé
+[02:57.03] 
+[02:50.43] 今日はセックスしたい
+[02:53.38] でもあなたとだけ
+[02:56.05] どこにいますか?
+[02:58.59] どこにいますか?
+[03:00.94] 今日はセックスしたい
+[03:03.49] でもあなたとだけ
+[03:06.57] どこにいますか?
+[03:08.78] どこにいますか? Eh
+```
